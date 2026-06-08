@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "drafted": {
+      "type": "http",
+      "url": "https://drafted.live/mcp"
+    }
+  }
+}

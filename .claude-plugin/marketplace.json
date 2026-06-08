@@ -1,0 +1,33 @@
+{
+  "name": "drafted-web",
+  "owner": {
+    "name": "Mind Athletic BV",
+    "email": "support@drafted.live",
+    "url": "https://drafted.live"
+  },
+  "metadata": {
+    "description": "Drafted for Claude on the web and Cowork — remote connector + skills bundle.",
+    "version": "1.8.0"
+  },
+  "plugins": [
+    {
+      "name": "drafted",
+      "source": ".",
+      "description": "Visual thinking surface for AI-human collaboration. Bundles the Drafted remote connector (https://drafted.live/mcp) + the Drafted skill + eight slash commands (/drafted:onboard-drafted, /drafted:ingest, /drafted:create-skill, /drafted:create-project, /drafted:improve-wiki, /drafted:improve-skill, /drafted:improve-project-harness, /drafted:extract) so Claude knows how to use the surface on the web and in Cowork.",
+      "category": "productivity",
+      "keywords": [
+        "ai-collaboration",
+        "visual-thinking",
+        "surface",
+        "knowledge-management",
+        "skills",
+        "sop",
+        "team",
+        "connector"
+      ],
+      "homepage": "https://drafted.live",
+      "license": "MIT",
+      "strict": false
+    }
+  ]
+}
