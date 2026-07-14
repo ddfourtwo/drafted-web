@@ -7,12 +7,12 @@
   },
   "metadata": {
     "description": "Drafted for Claude on the web and Cowork — remote connector + skills bundle.",
-    "version": "1.14.15"
+    "version": "1.14.17"
   },
   "plugins": [
     {
       "name": "drafted",
-      "source": ".",
+      "source": "./plugin",
       "description": "Visual thinking surface for AI-human collaboration. Bundles the Drafted remote connector (https://drafted.live/mcp) + the Drafted skill + eight slash commands (/drafted:onboard-drafted, /drafted:ingest, /drafted:create-skill, /drafted:create-project, /drafted:improve-wiki, /drafted:improve-skill, /drafted:improve-project-harness, /drafted:extract) so Claude knows how to use the surface on the web and in Cowork.",
       "category": "productivity",
       "keywords": [
