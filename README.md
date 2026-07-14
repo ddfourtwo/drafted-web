@@ -9,7 +9,12 @@ Do not PR here — open issues at https://drafted.live.
 
 ## Install
 
-**Claude (web) / Cowork:** Settings → Customize plugins → Add → Add marketplace → `https://github.com/ddfourtwo/drafted-web`, then install the **Drafted** plugin. You'll sign in to Drafted (OAuth) on first use.
+**Claude (web) / Cowork:** two steps.
+
+1. Settings → Customize plugins → Add → Add marketplace → `https://github.com/ddfourtwo/drafted-web` → install the **Drafted** plugin (skill + slash commands).
+2. Settings → Connectors → find **Drafted** → **Connect**, then approve the sign-in (the Drafted tools).
+
+Installing the plugin does not connect you automatically — do both. You'll sign in to Drafted (OAuth) on first use.
 
 **Claude Code:**
 
