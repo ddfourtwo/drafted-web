@@ -7,6 +7,8 @@
     "email": "support@drafted.live"
   },
   "homepage": "https://drafted.live",
+  "privacyPolicyUrl": "https://drafted.live/legal/privacy-policy.html",
+  "icon": "./.claude-plugin/icon.png",
   "license": "MIT",
   "keywords": [
     "ai-collaboration",
